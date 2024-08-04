@@ -1,0 +1,13 @@
+CREATE OR REPLACE PROCEDURE SRAGHUL.SP1
+(            
+       
+)
+LANGUAGE SQLSCRIPT AS v_mapval2 NVARCHAR(60)
+;
+
+
+BEGIN
+
+
+
+End
